@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @fidelis
-- 👀 I’m interested in Robotics, electronics, AI and machine learning, web development, games devlopment
+- 👀 I’m interested in Robotics, Electronics, AI and Machine learning, web development, games devlopment
 - 🌱 I’m currently learning AI and machine learning, web development, games devlopment
 - 💞️ I’m looking to collaborate on anything technology
 - 📫 How to reach me +2348159115086 or email me at raphaelofordum10@gmail.com
+- find projects on Electronics, AI and Machine Learning, Web development and Game development.
